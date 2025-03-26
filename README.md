@@ -1,6 +1,6 @@
 # Stock Analysis Project using Python
 # Overview
-This is my first python project, I used python to analyze the perfromance, risk, and trends of 6 major tech stocks. I used financial data from Yahoo Finance and visualized the inights to undersand market trend and make personal investment decisions
+This is my first python project, where I analyzed the perfromance, risk, and trends of 6 major tech stocks. Using financial data from Yahoo Finance, I explored market trends and visualized key inights to undersand stock behaviour and make informed personal investment decisions
 # Objectives
 The aim of the project was to answer the following questions:
 1) What was the change in price of the stocks over time?
@@ -11,8 +11,8 @@ The aim of the project was to answer the following questions:
 6) How can we attempt to predict future stock behaviour?
 
 # Technologies used
-  Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, yfinance
-  Data Sources: Yahoo Finance
+  **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, yfinance
+  **Data Sources**: Yahoo Finance
 
 # Key Features
 ## Data Collection
@@ -34,6 +34,6 @@ I used Seaborn to create:
   2) Heatmaps to highlight the strength of correlations between different stocks
   3) Scatterplots and Pairplots to visually explore the patterns in stock returns
 
-## Important to Note
+## Important Concepts to Note
 ### Monte Carlo Simulation is used to predict possible outcomes for stock prices and assess risks
 ### Value ar Risk (VaR) helps estimate how much money could be lost in a portfolio over a certain period of time. for example a 1% VaR means there is only a 1% chance of losing more than that amount in the given period
