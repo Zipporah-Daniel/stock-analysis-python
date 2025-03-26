@@ -16,8 +16,8 @@ The aim of the project was to answer the following questions:
 
 # Key Features
 ## Data Collection
-1) I used yfinance to download the stock data for 6 major tech stocks AAPL, GOOG, MSFT, AMZN, TSLA, and NVDA
-2) I made sure the data was accurate by formatting the data indices and checking the structure of the columns
+- I used yfinance to download the stock data for 6 major tech stocks AAPL, GOOG, MSFT, AMZN, TSLA, and NVDA
+- I made sure the data was accurate by formatting the data indices and checking the structure of the columns
 
 ## Data Analysis
 1) **Change in Stock Prices**: I created visualizations of the adjusted close prices over time to understand overall price trends for the stocks
