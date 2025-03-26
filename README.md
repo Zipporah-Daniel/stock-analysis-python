@@ -36,5 +36,5 @@ I used Seaborn to create:
 
 ## Important Concepts to Note
 ### Monte Carlo Simulation is used to predict possible outcomes for stock prices and assess risks
-### Value ar Risk (VaR) helps estimate how much money could be lost in a portfolio over a certain period of time. for example a 1% VaR means there is only a 1% chance of losing more than that amount in the given period
+### Value at Risk (VaR) helps estimate how much money could be lost in a portfolio over a certain period of time. for example a 1% VaR means there is only a 1% chance of losing more than that amount in the given period
 ### Correlation Matrix shows how strongly different stocks are related to each other. The stocks have a strong positive relationship if the value is closer to +1, and if it is closer to -1, the stocks have a strong negative relationship. Looking at these relationships can help figure out ways to diversify a portfolio 
