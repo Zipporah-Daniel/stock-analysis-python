@@ -7,7 +7,7 @@ The aim of the project was to answer the following questions:
 2) What was the daily return of the stock on average?
 3) What was the moving average of the various stocks?
 4) What was the correlation between different stocks' daily retruns?
-5) How much value do we put at risk by ivesting in a particular stock?
+5) How much value do we put at risk by investing in a particular stock?
 6) How can we attempt to predict future stock behaviour?
 
 # Technologies used
