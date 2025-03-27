@@ -1,6 +1,6 @@
 # Stock Analysis Project using Python
 # Overview
-This is my first python project, where I analyzed the perfromance, risk, and trends of 6 major tech stocks. Using financial data from Yahoo Finance, I explored market trends and visualized key insights to undersand stock behaviour and make informed personal investment decisions
+This is my first python project, where I analyzed the performance, risk, and trends of 6 major tech stocks. Using financial data from Yahoo Finance, I explored market trends and visualized key insights to undersand stock behaviour and make informed personal investment decisions
 # Objectives
 The aim of the project was to answer the following questions:
 1) What was the change in price of the stocks over time?
