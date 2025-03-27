@@ -4,8 +4,8 @@ This is my first python project, where I analyzed the perfromance, risk, and tre
 # Objectives
 The aim of the project was to answer the following questions:
 1) What was the change in price of the stocks over time?
-2) What was the daily return of the stock on average?
-3) What was the moving average of the various stocks?
+2) What was the moving average of the various stocks?
+3) What was the daily return of the stock on average?
 4) What was the correlation between different stocks' daily retruns?
 5) How much value do we put at risk by investing in a particular stock?
 6) How can we attempt to predict future stock behaviour?
